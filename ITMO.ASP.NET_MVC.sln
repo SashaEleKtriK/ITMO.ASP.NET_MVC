@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ASP.NET_MVC", "ITMO.ASP.NET_MVC\ITMO.ASP.NET_MVC.csproj", "{2226CF0B-4BE1-41DF-85FB-59EE92CD0670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCreditApp1", "MvcCreditApp1\MvcCreditApp1.csproj", "{1A7B98B4-96D0-49C3-A818-DC50711127BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2226CF0B-4BE1-41DF-85FB-59EE92CD0670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2226CF0B-4BE1-41DF-85FB-59EE92CD0670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2226CF0B-4BE1-41DF-85FB-59EE92CD0670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2226CF0B-4BE1-41DF-85FB-59EE92CD0670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7B98B4-96D0-49C3-A818-DC50711127BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7B98B4-96D0-49C3-A818-DC50711127BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7B98B4-96D0-49C3-A818-DC50711127BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7B98B4-96D0-49C3-A818-DC50711127BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C359162-9DDA-48F0-AFEA-0B14CFCCE35F}
+	EndGlobalSection
+EndGlobal
